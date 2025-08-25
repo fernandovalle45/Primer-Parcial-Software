@@ -7,3 +7,8 @@ body {
 body > * {
     padding: 100px 250px;
 }
+
+.contenedor {
+    text-align: center;
+    width: 1000px;
+}
