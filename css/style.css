@@ -11,3 +11,74 @@ body > * {
 .contenedor {
     text-align: center;
 }
+
+.tituloYLogo {
+    padding: 30px;
+}
+
+.logo {
+    height: 300px;
+}
+
+.titulo {
+    margin-top: 50px;
+}
+
+.docenteEstudianteYFecha {
+    padding: 30px;
+}
+
+.docente {
+    margin-bottom: 30px;
+}
+
+.alumnoNombre {
+    margin-bottom: 30px;
+    font-weight: normal;
+}
+
+.fechaDate {
+    margin-bottom: 40px;
+    font-weight: normal;
+}
+
+.tituloIndice {
+    font-weight: bold;
+    color: red;
+    margin-bottom: 50px;
+}
+
+.tituloPelicula {
+    margin: 20px;
+}
+
+.imagePelicula {
+    height: 300px;
+}
+
+.verMas {
+    margin:30px;
+}
+
+.tituloPeliculaBig {
+    font-weight: bold;
+    font-size: 50px;
+    margin: 50px;
+}
+
+.imgMovie {
+    height: 400px;
+    margin: 50px;
+}
+
+.descripcionTitle {
+    margin: 20px;
+    padding: 20px;
+}
+
+.descripcion {
+    padding: 30px;
+    margin: 20px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
